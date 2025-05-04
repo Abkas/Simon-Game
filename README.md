@@ -3,7 +3,7 @@
 This is a simple Simon Game built using HTML, CSS, and JavaScript (jQuery). The game challenges players to remember and replicate an increasingly complex pattern of colors and sounds.
 
 ### 🔗 Live Demo
-[Play Simon Game Here]([https://your-vercel-site-url.vercel.app](https://simon-game-eight-virid.vercel.app/))
+[Play Simon Game Here](https://simon-game-eight-virid.vercel.app/)
 
 ---
 
